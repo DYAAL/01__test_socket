@@ -1,0 +1,14 @@
+/home/book/00_linux/03_socket/build/CMakeFiles/edit_cache.dir
+/home/book/00_linux/03_socket/build/CMakeFiles/rebuild_cache.dir
+/home/book/00_linux/03_socket/build/01_server/CMakeFiles/01_server.dir
+/home/book/00_linux/03_socket/build/01_server/CMakeFiles/edit_cache.dir
+/home/book/00_linux/03_socket/build/01_server/CMakeFiles/rebuild_cache.dir
+/home/book/00_linux/03_socket/build/02_client/CMakeFiles/02_client.dir
+/home/book/00_linux/03_socket/build/02_client/CMakeFiles/edit_cache.dir
+/home/book/00_linux/03_socket/build/02_client/CMakeFiles/rebuild_cache.dir
+/home/book/00_linux/03_socket/build/03_socket/CMakeFiles/03_socket.dir
+/home/book/00_linux/03_socket/build/03_socket/CMakeFiles/edit_cache.dir
+/home/book/00_linux/03_socket/build/03_socket/CMakeFiles/rebuild_cache.dir
+/home/book/00_linux/03_socket/build/04_setsid/CMakeFiles/04_setsid.dir
+/home/book/00_linux/03_socket/build/04_setsid/CMakeFiles/edit_cache.dir
+/home/book/00_linux/03_socket/build/04_setsid/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+aux_source_directory(./ SRC_FILE)
+include_directories(${HEADPATH})
+link_directories(${LIBPATH})
+link_libraries(${SOCKETLIB})
+link_libraries(${SETSIDLIB})
+set(EXECUTABLE_OUTPUT_PATH ${EXECPATH})
+add_executable(${APPNAME1} ${SRC_FILE})
+ 

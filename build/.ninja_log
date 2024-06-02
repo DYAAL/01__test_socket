@@ -1,0 +1,12 @@
+# ninja log v5
+217	352	1717137740103005457	../bin/02_client	4aedf6eac5455e1
+295	413	1717137740163005459	../bin/01_server	c3597f13cdaa672
+2	147	1717137739893005449	04_setsid/CMakeFiles/04_setsid.dir/set_sid.cpp.o	1d369faffee80885
+1	217	1717137739963005449	02_client/CMakeFiles/02_client.dir/client.cpp.o	36d478f781316c5d
+1	295	1717137740043005452	01_server/CMakeFiles/01_server.dir/server.cpp.o	7435bbe3dd2b3c39
+160	168	1717137739913005449	../lib/lib03_socket.a	e2a95a35b9a33f7
+2	160	1717137739913005449	03_socket/CMakeFiles/03_socket.dir/socket_base.cpp.o	82e2f21e7935131e
+1	138	1717137739883005446	01_server/CMakeFiles/01_server.dir/main.cpp.o	47aa9a167e8d2975
+0	2	0	clean	a31eedcededa8236
+147	154	1717137739903005449	../lib/lib04_setsid.a	1e5af40d8cf2ad39
+1	124	1717137739873005447	02_client/CMakeFiles/02_client.dir/main.cpp.o	c96d87f4a9bcf7c0
